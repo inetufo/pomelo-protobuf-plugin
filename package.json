@@ -4,7 +4,7 @@
   "private": false,
   "author": "py8765 pengyang633@126.com/@py8765",
   "dependencies": {
-    "pomelo-logger": "0.1.2",
-    "protobufjs": "2.0.4"
+    "pomelo-logger": "git://github.com/silverera/pomelo-logger.git#v0.1.8",
+    "protobufjs": "~6.10.1"
   }
 }
